@@ -1,1 +1,3 @@
-package main
+# IDEs
+.idea/*
+.vscode/*
